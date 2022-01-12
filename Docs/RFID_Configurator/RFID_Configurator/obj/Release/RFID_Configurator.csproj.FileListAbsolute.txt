@@ -1,0 +1,10 @@
+D:\prj\Elektroavtomatika\Interface_dev\RFID\Soft\RFID_Configurator\RFID_Configurator\RFID_Configurator\bin\Release\RFID_Configurator.exe.config
+D:\prj\Elektroavtomatika\Interface_dev\RFID\Soft\RFID_Configurator\RFID_Configurator\RFID_Configurator\bin\Release\RFID_Configurator.exe
+D:\prj\Elektroavtomatika\Interface_dev\RFID\Soft\RFID_Configurator\RFID_Configurator\RFID_Configurator\bin\Release\RFID_Configurator.pdb
+D:\prj\Elektroavtomatika\Interface_dev\RFID\Soft\RFID_Configurator\RFID_Configurator\RFID_Configurator\obj\Release\RFID_Configurator.Form1.resources
+D:\prj\Elektroavtomatika\Interface_dev\RFID\Soft\RFID_Configurator\RFID_Configurator\RFID_Configurator\obj\Release\RFID_Configurator.Properties.Resources.resources
+D:\prj\Elektroavtomatika\Interface_dev\RFID\Soft\RFID_Configurator\RFID_Configurator\RFID_Configurator\obj\Release\RFID_Configurator.csproj.GenerateResource.cache
+D:\prj\Elektroavtomatika\Interface_dev\RFID\Soft\RFID_Configurator\RFID_Configurator\RFID_Configurator\obj\Release\RFID_Configurator.csproj.CoreCompileInputs.cache
+D:\prj\Elektroavtomatika\Interface_dev\RFID\Soft\RFID_Configurator\RFID_Configurator\RFID_Configurator\obj\Release\RFID_Configurator.exe
+D:\prj\Elektroavtomatika\Interface_dev\RFID\Soft\RFID_Configurator\RFID_Configurator\RFID_Configurator\obj\Release\RFID_Configurator.pdb
+D:\prj\Elektroavtomatika\Interface_dev\RFID\Soft\RFID_Configurator\RFID_Configurator\RFID_Configurator\obj\Release\RFID_Configurator.csprojAssemblyReference.cache
