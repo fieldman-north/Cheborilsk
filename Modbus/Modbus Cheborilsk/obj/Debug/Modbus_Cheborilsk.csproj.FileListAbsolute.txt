@@ -1,0 +1,9 @@
+G:\GIT\Cheborilsk\Modbus\Modbus Cheborilsk\bin\Debug\Modbus Poll CS.exe
+G:\GIT\Cheborilsk\Modbus\Modbus Cheborilsk\bin\Debug\Modbus Poll CS.pdb
+G:\GIT\Cheborilsk\Modbus\Modbus Cheborilsk\obj\Debug\Modbus_Cheborilsk.csprojAssemblyReference.cache
+G:\GIT\Cheborilsk\Modbus\Modbus Cheborilsk\obj\Debug\Modbus_Cheborilsk.Form1.resources
+G:\GIT\Cheborilsk\Modbus\Modbus Cheborilsk\obj\Debug\Modbus_Poll_CS.Properties.Resources.resources
+G:\GIT\Cheborilsk\Modbus\Modbus Cheborilsk\obj\Debug\Modbus_Cheborilsk.csproj.GenerateResource.cache
+G:\GIT\Cheborilsk\Modbus\Modbus Cheborilsk\obj\Debug\Modbus_Cheborilsk.csproj.CoreCompileInputs.cache
+G:\GIT\Cheborilsk\Modbus\Modbus Cheborilsk\obj\Debug\Modbus Poll CS.exe
+G:\GIT\Cheborilsk\Modbus\Modbus Cheborilsk\obj\Debug\Modbus Poll CS.pdb

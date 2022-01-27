@@ -107,7 +107,7 @@ namespace Modbus_Cheborilsk
             lstDataType.SelectedIndex = 0;
 
             //Textbox defaults:
-            txtRegisterQty.Text = "20";
+            txtRegisterQty.Text = "1";
             txtSampleRate.Text = "1000";
             txtSlaveID.Text = "1";
             txtStartAddr.Text = "0";
@@ -290,5 +290,10 @@ namespace Modbus_Cheborilsk
 
         }
         #endregion
+
+        private void lstPorts_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

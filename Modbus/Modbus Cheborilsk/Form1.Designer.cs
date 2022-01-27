@@ -89,6 +89,7 @@ namespace Modbus_Cheborilsk
             this.lstPorts.Name = "lstPorts";
             this.lstPorts.Size = new System.Drawing.Size(82, 21);
             this.lstPorts.TabIndex = 2;
+            this.lstPorts.SelectedIndexChanged += new System.EventHandler(this.lstPorts_SelectedIndexChanged);
             // 
             // label2
             // 
@@ -321,7 +322,7 @@ namespace Modbus_Cheborilsk
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label3);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
